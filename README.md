@@ -26,11 +26,12 @@ Basic data analysis and reporting
 # How to Run
 bash
 python student_evaluation.py
-#📁 File Structure
+# File Structure
 Code
 student_evaluation.py
 README.md
-#📌 Notes
+
+# Notes
 Duplicate names are prevented
 
 Press Enter twice to finish input
